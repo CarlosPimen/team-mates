@@ -29,7 +29,7 @@
     "@angular/pwa": "^14.2.10",
     "@angular/router": "^14.2.12",
     "@angular/service-worker": "^14.2.12",
-    "@handsontable/angular": "^12.3.1",
+    "@handsontable/angular": "^12.4.0",
     "@ng-bootstrap/ng-bootstrap": "^13.1.1",
     "@popperjs/core": "~2.10.2",
     "@tinymce/tinymce-angular": "^7.0.0",
